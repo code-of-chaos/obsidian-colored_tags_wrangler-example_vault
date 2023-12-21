@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1c0d5b7e8306993c","x":-80,"y":-115,"width":260,"height":131,"type":"text","text":"Another Card\n#tag-2 "},
+		{"id":"f27d4c880305d15d","x":-300,"y":-119,"width":164,"height":140,"type":"text","text":"A Card\n#tag-1 "}
+	],
+	"edges":[
+		{"id":"698a6d5d331ab75d","fromNode":"f27d4c880305d15d","fromSide":"right","toNode":"1c0d5b7e8306993c","toSide":"left"}
+	]
+}
